@@ -1,0 +1,307 @@
+.clearboth {
+  clear: both;
+}
+
+.space5 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.space10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.space15 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.space20 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.space25 {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.space30 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.space35 {
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+
+.space40 {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.space45 {
+  margin-top: 45px;
+  margin-bottom: 45px;
+}
+
+.space50 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.space55 {
+  margin-top: 55px;
+  margin-bottom: 55px;
+}
+
+.space60 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.space65 {
+  margin-top: 65px;
+  margin-bottom: 65px;
+}
+
+.space70 {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+.space75 {
+  margin-top: 75px;
+  margin-bottom: 75px;
+}
+
+.space80 {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.space90 {
+  margin-top: 90px;
+  margin-bottom: 90px;
+}
+
+.space100 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+/* main area */
+main {
+}
+
+button.btn {
+}
+
+button.btn:hover {
+}
+
+button.btn,
+button.btn-sort,
+button:hover,
+button.btn-seemore:hover {
+}
+
+button.btn,
+button.btn-seemore,
+button:hover,
+button.btn-seemore:hover {
+}
+
+.navbar img {
+  border-radius: 50%;
+}
+
+.card {
+}
+
+.card img {
+}
+
+.card img.author {
+}
+
+.d-none {
+  display: none;
+}
+
+.navbar-nav {
+  --bs-nav-link-padding-x: -1 !important;
+  text-decoration: none !important;
+}
+
+.navbar-nav a {
+  text-decoration: none !important;
+}
+
+.footer {
+}
+
+.errorpage {
+  font-size: 50px;
+  color: red;
+}
+
+.banner {
+  background: #f9f9ff;
+  padding-top: 70px;
+}
+
+.spacebottom {
+  padding-bottom: 70px;
+}
+.questionandanser {
+  padding: 5px;
+  border: 1px solid #ddd;
+  margin-top: 20px !important;
+}
+
+.questionandanser p {
+  text-align: left;
+  text-align: justify;
+}
+
+.questionandanser span {
+  color: goldenrod;
+}
+
+.category {
+  background: #faf8ff;
+  padding: 20px;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.category img {
+  float: left;
+  clear: right;
+}
+
+.category h5,
+span {
+  clear: both;
+  float: left;
+}
+
+.homepage {
+}
+
+.homepage .title-wrapper {
+  overflow: hidden;
+}
+
+.homepage p.title {
+  font-size: 80px;
+  font-weight: 800;
+  line-height: 100px;
+  text-align: left;
+}
+.homepage span.banner-title {
+  color: #907cff;
+  clear: both;
+}
+
+.homepage p.banner-content {
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: 500;
+  text-align: left;
+}
+
+.card {
+  min-height: 385px;
+  margin-top: 15px;
+}
+.card-body {
+}
+
+.card-title {
+  text-align: left;
+}
+
+.card-text {
+  text-align: left;
+}
+
+.card-body p.text-left {
+  text-align: left;
+}
+
+.button-wrapper {
+  overflow: hidden;
+}
+
+.button-wrapper button.btn-remote {
+  background: #faf8ff !important;
+  color: #9576ff !important;
+  margin: 5px;
+  background-color: #faf8ff !important;
+  border-color: #9576ff !important;
+  float: left;
+}
+
+button.btn-details {
+  margin-top: 0;
+
+  margin-right: auto;
+  display: block;
+  background: #8a82fe !important;
+  color: #fff !important;
+  background-color: #8a82fe !important;
+
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 27px;
+}
+
+button.btn-seealljobs {
+  margin-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  background: #8a82fe !important;
+  color: #fff !important;
+  background-color: #8a82fe !important;
+
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 27px;
+}
+
+.appliedwrapper {
+  padding: 5px;
+  border: 1px solid #ddd;
+  margin-top: 20px !important;
+}
+
+.appliedwrapper img {
+  margin-top: 50px;
+}
+
+.appliedwrapper p.title {
+  text-align: left;
+}
+
+.appliedwrapper p.company {
+  text-align: left;
+}
+
+.appliedwrapper p.location {
+  text-align: left;
+}
+
+.appliedwrapper .btn-details {
+  margin-top: 60px;
+}
+
+img.iconimage {
+  width: 50px;
+}

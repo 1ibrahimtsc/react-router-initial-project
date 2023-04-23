@@ -1,0 +1,34 @@
+/* -------Medium devices responsive css ----------- */
+@media screen and (max-width: 992px) {
+}
+
+/* ------- responsive css for landscape phones, less than 769px----------- */
+@media screen and (max-width: 768px) {
+}
+
+/* -------only mobile responsive css------ */
+@media screen and (max-width: 575.98px) {
+}
+
+@media only screen and (min-width: 320px) {
+}
+
+/* --------------------media---------------
+@media only screen and (min-width: 400px) {
+  
+}
+
+@media only screen and (min-width: 576px) {
+  
+}
+
+@media only screen and (min-width: 768px) {
+ 
+}
+
+@media only screen and (min-width: 1024px) {
+  
+}
+
+
+------*/
